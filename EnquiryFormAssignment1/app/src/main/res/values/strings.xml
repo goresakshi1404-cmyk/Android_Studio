@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment_constraintLayout&amp;Resources</string>
+    <string name="Aavid_Software">Aavid_Software</string>
+    <string name="Enquiry_form">Enquiry Form</string>
+    <string name="name">Name :</string>
+    <string name="phone">Contact :</string>
+    <string name="email">Email :</string>
+    <string name="address">Address</string>
+    <string name="college">College :</string>
+    <string name="technology">Technology :</string>
+    <string name="year_passing">Year of Passing :</string>
+    <string name="submit">Submit</string>
+</resources>
